@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+@media (max-width:768px){
+    .two {
+        display: none;
+    }
+    .three {
+        display: none;
+    }
+}
+
